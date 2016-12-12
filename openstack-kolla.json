@@ -1,0 +1,23 @@
+{
+  "labId": "openstack-kolla",
+  "title": "OpenStack Containerized Deployment using Kolla"
+  "slug": "This learning lab shows you how to deploy and start using OpenStack using containers running within a VM on your own laptop, or if you prefer, within a sandbox provided for you. OpenStack Kolla provides production ready tools to deploy OpenStack services as Docker containers that can be managed and upgraded using Ansible playbooks."
+  "time": "45",
+  "tags": [
+    {"title": "OpenStack"},
+    {"title": "Cloud"}
+    {"title": "Containers"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"}
+  ],
+  "byod": true,
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}
