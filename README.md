@@ -1,2 +1,2 @@
 # openstack-kolla
-OpenStack - Containerized Deployment Using Kolla
+Source for "OpenStack - Containerized Deployment Using Kolla" learning lab.
