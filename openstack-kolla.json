@@ -1,11 +1,11 @@
 {
   "labId": "openstack-kolla",
-  "title": "OpenStack Containerized Deployment using Kolla"
-  "slug": "This learning lab gets you started using a containerized deployment of OpenStack running within a DevNet Sandbox, or if you prefer, within a VM on your own machine. OpenStack Kolla provides production ready tools to deploy OpenStack services as Docker containers that can be managed and upgraded using Ansible playbooks."
+  "title": "OpenStack Containerized Deployment using Kolla",
+  "slug": "This learning lab gets you started using a containerized deployment of OpenStack running within a DevNet Sandbox, or if you prefer, within a VM on your own machine. OpenStack Kolla provides production ready tools to deploy OpenStack services as Docker containers that can be managed and upgraded using Ansible playbooks.",
   "time": "45",
   "tags": [
     {"title": "OpenStack"},
-    {"title": "Cloud"}
+    {"title": "Cloud"},
     {"title": "Containers"}
   ],
   "files": [
@@ -18,6 +18,6 @@
   ],
   "byod": true,
   "authors": [
-  	{"name": "", "email": ""}
+  	{"Charles Eckel": "", "eckelcu@cisco.com": ""}
   ]
 }
